@@ -1,0 +1,2 @@
+hello this is new file
+this is the second user making the changes to the file
