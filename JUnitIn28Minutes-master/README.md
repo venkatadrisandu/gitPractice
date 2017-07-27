@@ -18,7 +18,8 @@ Git hub repository for the free Udemy course :
   - [Our Beliefs](#our-beliefs)
   - [Our Approach](#our-approach)
   - [Find Us](#useful-links)
-  - [Other Courses](#other-courses)
+:q!
+:- [Other Courses](#other-courses)
 
 ## Topics
 ### Section 1 Foundation
